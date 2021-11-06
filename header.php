@@ -18,6 +18,8 @@
 
     <!-- Custom CSS file -->
     <link rel="stylesheet" href="style.css">
+   
+   <title>Mobile App</title>
 </head>
 <body>
 
